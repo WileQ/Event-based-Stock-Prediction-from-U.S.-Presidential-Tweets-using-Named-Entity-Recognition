@@ -13,4 +13,4 @@ The mapping proccess of tickers to the detected NER entities is in NER_ticker_ma
 
 ### **Report on the process and results**
 
-![NER_project.pdf](NER_project.pdf)
+[NER_project.pdf](NER_project.pdf)
