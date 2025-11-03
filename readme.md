@@ -9,3 +9,8 @@ To run the baseline, navigate to the baseline folder and compile the baseline.py
 To run our custom model, follow and run the trainingmodel.ipynb file which will also save the model weights locally. With testing.ipynb you can load the model and run test metrics. Our (labelled) test data is available at combined_labels.csv.
 
 The mapping proccess of tickers to the detected NER entities is in NER_ticker_mapping_and_sentiment. The tickers are collected from sp500_ticker_data_collection.
+
+
+### **Report on the process and results**
+
+![NER_project.pdf](NER_project.pdf)
